@@ -149,13 +149,13 @@ Hands-on experiments and projects while learning networking, Linux, web security
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=utshavkatuwal&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=utshavkatuwal&theme=github_dark" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utshavkatuwal&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utshavkatuwal&theme=github_dark" alt="Top Languages" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=utshavkatuwal&theme=dark&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utshavkatuwal&theme=github_dark" alt="GitHub Activity" />
 
 </div>
 
