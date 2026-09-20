@@ -142,9 +142,7 @@ Hands-on experiments and projects while learning networking, Linux, web security
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 
-
----
-
+```
 ## 📊 GitHub Stats
 
 <div align="center">
