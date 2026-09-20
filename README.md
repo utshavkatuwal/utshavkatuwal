@@ -129,18 +129,18 @@ Hands-on experiments and projects while learning networking, Linux, web security
 ## 🧠 Currently Learning
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   🐧 Linux & System Administration                     │
-│   🌐 Computer Networking                                │
-│   🔐 Cybersecurity Fundamentals                         │
-│   🛡️ Web & Application Security                         │
-│   🐍 Advanced Python                                    │
-│   🐳 Docker & DevOps                                    │
-│   🔎 Ethical Hacking                                    │
-│   ☁️ Cloud & Security                                   │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   > Linux & System Administration                        │
+│   > Computer Networking                                  │
+│   > Cybersecurity Fundamentals                           │
+│   > Web & Application Security                           │
+│   > Advanced Python                                      │
+│   > Docker & DevOps                                      │
+│   > Ethical Hacking                                      │
+│   > Cloud & Security                                     │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
 ```
 ---
