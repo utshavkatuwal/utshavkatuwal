@@ -8,9 +8,9 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utshav-katuwal-69184b416/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://utshavkatuwal.com.np/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/utshavkatuwal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/utshav-katuwal-69184b416/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://utshavkatuwal.com.np/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/utshavkatuwal)
 
 </div>
 
@@ -26,9 +26,13 @@
 
 🔐 Interested in **Cybersecurity, Web Security & Ethical Hacking**
 
-🐍 Currently working with **Python, JavaScript & PHP**
+🐍 Currently working with **Python, JavaScript, PHP, Dart & C++**
+
+📱 Exploring **Flutter & cross-platform application development**
 
 🐧 Exploring **Linux, Networking & System Security**
+
+🎨 Learning **UI/UX and interface design with Figma**
 
 🚀 My goal is to grow into a **Security Engineer**
 
@@ -44,15 +48,23 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,js,php,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,php,cpp,dart,html,css" />
 
 </p>
 
-### 🛠️ Development
+### 📱 Development
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=react,mysql,git,github,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=react,flutter,mysql,git,github,docker,vscode" />
+
+</p>
+
+### 🎨 Design
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=figma" />
 
 </p>
 
@@ -76,7 +88,7 @@
 
 ### 🔧 RepairConnect
 
-A service platform connecting customers with technicians based on their service requirements and location.
+A service marketplace connecting customers with professional technicians based on service requirements and location.
 
 **Stack**
 
@@ -84,6 +96,20 @@ A service platform connecting customers with technicians based on their service 
 
 </td>
 
+<td width="50%">
+
+### 🎟️ EventFlow
+
+A modern event management and ticketing platform designed for discovering events, managing bookings and handling digital tickets.
+
+**Stack**
+
+`React` `JavaScript` `PHP` `MySQL` `APIs`
+
+</td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🏫 School LMS
@@ -95,9 +121,7 @@ A school-focused platform designed to manage students, teachers, admissions, fee
 `PHP` `MySQL` `JavaScript` `Web`
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 ### 🤖 Jarvis
@@ -109,7 +133,9 @@ A Python desktop assistant focused on voice interaction, automation, web search 
 `Python` `Speech Recognition` `Automation`
 
 </td>
+</tr>
 
+<tr>
 <td width="50%">
 
 ### 🔐 Cybersecurity Labs
@@ -119,6 +145,18 @@ Hands-on experiments and projects while learning networking, Linux, web security
 **Focus**
 
 `Linux` `Networking` `Security` `Web`
+
+</td>
+
+<td width="50%">
+
+### 📱 Flutter Projects
+
+Exploring cross-platform mobile application development using Flutter and Dart.
+
+**Stack**
+
+`Flutter` `Dart` `Figma`
 
 </td>
 </tr>
@@ -136,13 +174,15 @@ Hands-on experiments and projects while learning networking, Linux, web security
 │   > Cybersecurity Fundamentals                           │
 │   > Web & Application Security                           │
 │   > Advanced Python                                      │
+│   > Flutter & Dart                                       │
+│   > UI/UX Design with Figma                              │
 │   > Docker & DevOps                                      │
 │   > Ethical Hacking                                      │
 │   > Cloud & Security                                     │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
-
 ```
+
 ---
 
 ## 📊 GitHub Stats
